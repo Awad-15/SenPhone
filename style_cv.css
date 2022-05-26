@@ -1,0 +1,24 @@
+h2{
+    background-color: darkblue;
+        color: yellow;
+        margin-left: 350px;
+}
+
+.lefttext{
+      color: white;
+      background-color:yellow ;
+
+}
+.left{
+    width: 1000px;
+    height: 300px;
+    background-color: white;
+    margin-left: 350px;
+    font-size: 20px;
+}
+.right{
+    width: 300px;
+    height: 800px;
+    background-color: darkblue;
+    float: left;
+}
